@@ -96,8 +96,6 @@ A visualização de dados pela técnica de <i>treemap</i> é bem importante para
 
 ## Recomendações
 
-#
-
 - Atualização do <i>dataset</i> com adição de todo o ano de 2021
 - Visualização de dados de bilheteria, orçamento, classificação através de notas de espectadores, utilizando outro conjunto de dados
 - Análise de sentimento das descrições dos shows, comparar com o gênero atribuído, observar se existe muita diferença
